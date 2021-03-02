@@ -24,6 +24,7 @@ dependencies:
   flutter:
     sdk: flutter
 
+  flutter_bloc: ^6.1.2
   freezed: ^0.12.7
 
   cupertino_icons: ^1.0.0
